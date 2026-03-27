@@ -24,14 +24,13 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## calculation
+![WhatsApp Image 2026-03-27 at 10 06 58 AM](https://github.com/user-attachments/assets/538eb027-7ad8-4670-8d94-c51714961673)
 
-## Graph
+## waveform
+![WhatsApp Image 2026-03-27 at 10 07 44 AM](https://github.com/user-attachments/assets/e48b27e2-4878-487e-93c2-4d5e1e79e0c9)
+![WhatsApp Image 2026-03-27 at 5 49 41 PM](https://github.com/user-attachments/assets/bc725fd0-5333-46bb-82d3-ec4a28664b02)
 
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
-
-**VOLTAGE GAIN =**
-
-**BANDWIDTH =**
+<img width="1600" height="622" alt="image" src="https://github.com/user-attachments/assets/0f88faa3-e27d-4c7e-b297-e0eb0f81e085" />
