@@ -1,4 +1,4 @@
-## EC1419-Electronics Circuits-Lab
+
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
@@ -24,14 +24,15 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## calculation
+<img width="1200" height="482" alt="image" src="https://github.com/user-attachments/assets/7f6a042f-56d4-4966-89c5-0b7f734063b8" />
 
-## Graph
+
+## waveform
+<img width="1599" height="695" alt="image" src="https://github.com/user-attachments/assets/ee89c57c-ec3b-496d-b216-7e29c58a1cab" />
 
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+The common emitter ampilifier is designed simulated and itf frequency response is plotted using lt spice simulator.
+AV=39db,fl=100hz,fu=20mhz,bw=19.9mhz
 
-**VOLTAGE GAIN =**
-
-**BANDWIDTH =**
